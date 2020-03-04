@@ -1,0 +1,17 @@
+{
+  "name": "gutenbook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "storybook": "start-storybook"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@storybook/react": "^5.3.14",
+    "@wordpress/block-library": "^2.14.3",
+    "@wordpress/blocks": "^6.12.1",
+    "babel-loader": "^8.0.6"
+  }
+}
